@@ -1,5 +1,7 @@
 body{
 	font-family: 'Oswald', sans-serif;
+	background-image: url('images/GOVGRID_GRADIENT_GRAY.jpg');
+	background-size: cover;
 }
 .container {
 	margin: 3em auto;
